@@ -1,0 +1,19 @@
+{
+  "name": "solidity dev",
+  "symbol": "DEV",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "BYnE7sdZYxCDxofE7yHHYkEorz1RmfHrbwc97DCF8zb8",
+        "share": 100
+      }
+    ]
+  }
+}

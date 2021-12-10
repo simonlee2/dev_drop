@@ -1,0 +1,19 @@
+{
+  "name": "swift dev",
+  "symbol": "DEV",
+  "image": "3.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "BYnE7sdZYxCDxofE7yHHYkEorz1RmfHrbwc97DCF8zb8",
+        "share": 100
+      }
+    ]
+  }
+}
